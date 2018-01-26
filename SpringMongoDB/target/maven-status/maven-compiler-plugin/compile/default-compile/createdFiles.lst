@@ -1,0 +1,8 @@
+com\curso\test\App.class
+com\curso\model\Car.class
+com\curso\dao\CarDaoImp.class
+com\curso\config\ApplicationConfig.class
+com\curso\SpringMongoDB\App.class
+com\curso\services\CarService.class
+com\curso\dao\CarDao.class
+com\curso\services\CarServiceImp.class
